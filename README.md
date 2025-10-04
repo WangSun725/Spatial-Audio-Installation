@@ -1,4 +1,5 @@
-Overview
+**Overview**  
+
 Collection of scripts, documents, and videos for a collaborative spatial audio installation to be presented at The Underground, Atlanta.
 
 Team Members
