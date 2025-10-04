@@ -2,7 +2,7 @@
 
 Collection of scripts, documents, and videos for a collaborative spatial audio installation to be presented at The Underground, Atlanta.
 
-Team Members
+**Team Members**
 
 Canting Zhu
 
@@ -12,13 +12,13 @@ Gibran Joseph Mobarak
 
 Sunshiyu Wang
 
-Advisor & System Basis
+**Advisor & System Basis**
 
 Developed under the guidance of Professor Henrik von Coler.
 
 Based on the “3D Box” spatial sound system from Georgia Tech’s L42I Lab: https://l42i.music.gatech.edu/projects/3dbox
 
-My Role & Recent Progress (Sunshiyu Wang)
+**My Role & Recent Progress (Sunshiyu Wang)**
 
 Visual Design (Jitter): Created visuals that seamlessly respond to audio and human-movement data.
 
